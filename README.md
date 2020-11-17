@@ -1,2 +1,2 @@
 # fisrt-julia-binder
-https://mybinder.org/v2/gh/awannabeengineer/fisrt-julia-binder/HEAD
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/awannabeengineer/fisrt-julia-binder/HEAD)
