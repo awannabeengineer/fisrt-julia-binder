@@ -1,7 +1,6 @@
 /envs/*
 *.log
-*
-!/**/
-!*.*
+*.csv
+.*
 !postBuild
-
+!/.gitignore
